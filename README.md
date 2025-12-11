@@ -1,4 +1,3 @@
-<img width="1095" height="537" alt="4050_card_2" src="https://github.com/user-attachments/assets/641d8620-5739-47dd-839e-78ca3a232a4d" /><<<<<<< HEAD
 # 📅 Day 2:
 
 Heatmap 시각화 결과 해석 -> 이천시의 4050대가 이천시의 '큰 손'임을 알아냄.
